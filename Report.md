@@ -14,9 +14,24 @@
 В процессе тестирования использовались следующие артефакты*:
 * IntelliJ IDEA Community Edition
 
-В качестве тестовых данных использовались данные https://www.getcreditcardnumbers.com/:
+В качестве тестовых данных использовались данные:
+https://www.getcreditcardnumbers.com/
+https://freeformatter.com/
+
+* 36549462151642 Result is FAIL
+* 36129430120142 Result is FAIL
+* 36086652431773 Result is FAIL
 * 4024007163294 Result is FAIL
+* 4556701199397 Result is FAIL
+* 4539359832402 Result is FAIL
+* 4916107385125 Result is FAIL
 * 373322249690121 Result is FAIL
+* 180018512013313 Result is FAIL
+* 180047788151994 Result is FAIL
+* 4838834996016261976 Result is FAIL
+* 3544258211209458286 Result is FAIL
+* 6011848458578219484 Result is FAIL
+
 
 Тестирование производилось в следующем окружении:
 * Windows 10 x64
